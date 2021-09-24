@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/black"
+    tools:context=".SplashScreen">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="590dp"
+        android:fontFamily="@font/stardustdemo"
+        android:padding="5dp"
+        android:text="Currency to INR"
+
+        android:textColor="#F4C32D"
+        android:textSize="50sp" />
+
+    <ImageView
+        android:layout_width="225dp"
+        android:layout_height="193dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="220dp"
+        android:src="@drawable/coinssplashscreen"
+        android:padding="0.1dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="400dp"
+        android:layout_marginBottom="50dp"
+        android:padding="5dp"
+        android:text="Convert top ten useful currencies to INR!"
+        android:textAlignment="center"
+        android:textColor="#F4C32D"
+        android:textSize="25sp"
+        android:fontFamily="@font/productsansitalic"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_baseline_bar_chart_24"
+        android:layout_marginBottom="50dp"
+        android:layout_marginTop="602dp"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>
