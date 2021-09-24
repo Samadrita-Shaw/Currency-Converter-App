@@ -1,7 +1,8 @@
 # Currency-Converter-App
-This repository contains The Currency Converter App, as a part of Developer Days Android Development Challenge week1.
+This repository contains The Currency Converter App with SAWO Lab API integration, as a part of Developer Days Android Development Challenge week1 and SAWO Bonus Challenge.
 
-![image](https://user-images.githubusercontent.com/88196245/131792984-d4591647-3faf-4617-9a13-f87a10428794.png)
+With the help of SAWO Labs, you can login password free.
+
 This app can convert the following currencies to INR(Indian Rupee) :
 1. US Dollar
 2. European Dollar
